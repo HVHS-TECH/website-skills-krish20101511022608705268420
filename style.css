@@ -1,3 +1,11 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(255, 3, 188);
   }
+
+  p.a {
+  font: 15px Arial, sans-serif;
+}
+
+p.b {
+  font: italic small-caps bold 12px/30px Georgia, serif;
+}
